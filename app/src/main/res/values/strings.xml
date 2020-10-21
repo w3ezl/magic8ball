@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">magic8ball</string>
+    <string name="promptText">Задайте вопрос и нажмите кнопку. Шар судьбы ответит на ваш вопрос</string>
+    <string name="buttonText" />
+    <string name="mainButtonText">Получить ответ</string>
+    <string name="buttonPromptText">" ? "</string>
+    <string name="buttonPromptExit">x</string>
+    <string name="PromptText">Привет. Я шар судьбы. Вам нужно только задать вопрос в слух. Это Важно! Далее нажмите на кнопку \"Получить ответ\" и я вам отвечу. Все просто и легко</string>
+</resources>
